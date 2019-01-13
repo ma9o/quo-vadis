@@ -1,0 +1,5 @@
+body { font-family: verdana; font-size: 12px; }
+label { display: block; }
+td { vertical-align: top; }
+form { width: 200px; display: inline-block;}
+#messages {width: 200px; height: 400px}

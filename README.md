@@ -1,2 +1,2 @@
 # quo-vadis
-Chrome extension for chatting with who's visiting the same website, based on libp2p
+Small libp2p experiment allowing Chrome users to chat with who is visiting the same webpage.
